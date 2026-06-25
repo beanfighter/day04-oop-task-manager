@@ -1,0 +1,12 @@
+[
+  {
+    "title": "walking dog",
+    "priority": "medium",
+    "completed": true
+  },
+  {
+    "title": "learning to cool",
+    "priority": "low",
+    "completed": false
+  }
+]
